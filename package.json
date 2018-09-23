@@ -11,7 +11,7 @@
   "version": "2.0.2",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
-    "id": "cordova-plugin-firebase",
+    "id": "cordova-plugin-firebase-background-notif",
     "platforms": [
       "android",
       "ios",
